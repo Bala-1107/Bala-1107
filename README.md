@@ -1,4 +1,5 @@
-## Hi there 👋
+- 🌱 I’m currently learning : Networks and Protocols
+- How to reach me: balsraj07@gmail.com 
 
 <!--
 **Bala-1107/Bala-1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
